@@ -1,3 +1,4 @@
+/*This is a program to add two numbers*/
 int main()
 {
 int number1, number2, sum;
